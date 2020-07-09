@@ -1,9 +1,9 @@
-# I am Front-end Web Developer
-## Specifically, focusing on `Progressive Web Apps` **PWA**
+## I am Front-end Web Developer
+### Specifically, focusing on `Progressive Web Apps` **PWA**
 
-### My Skill set includes:-
+#### My Skill set includes:-
 
-#### Web
+##### Web
 - **HTML**
 - **CSS**
   - TailwindCSS
@@ -21,7 +21,7 @@
   - MySQL
   - SQLite
   - firebase Firestore
-#### Mobile
+##### Mobile
  - PWA
  - Flutter
  
