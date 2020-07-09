@@ -12,8 +12,9 @@
   - Materialize
 - **JavaScript**
   - React
-  - Gatsby
-  - Next JS
+   - Gatsby
+   - Next JS
+  - Svelte
 - **Node JS**
   - Express
 - **Databases**
