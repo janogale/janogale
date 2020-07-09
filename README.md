@@ -1,27 +1,26 @@
 # I am Front-end Web Developer
 ## specially focusing on Progressive Web Apps **`PWA`**
 
-### my Skill set includes:-
+### My Skill set includes:-
 
 #### Web
-- *HTML*
-- *CSS*
+- **HTML**
+- **CSS**
   - TailwindCSS
   - Bulma 
   - Bootstrap
   - Materialize
-- *Javascript*
+- **Javascript**
   - React
   - Gatsby
   - Next JS
-- *Node JS*
+- **Node JS**
   - Express
-- *Databases*
+- **Databases**
   - Mongo DB
   - MySQL
   - SQLite
   - firebase Firestore
-
 #### Mobile
  - PWA
  - Flutter
