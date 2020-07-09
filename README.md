@@ -1,4 +1,4 @@
-<h2 sstyle="color:red">I am Front-end Web Developer </h2>
+## I am Front-end Web Developer
 ### Specifically, focusing on `Progressive Web Apps` **PWA**
 
 #### My Skill set includes:-
