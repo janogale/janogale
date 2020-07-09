@@ -4,19 +4,19 @@
 ### my Skill set includes:-
 
 #### Web
--HTML
-- CSS
+- *HTML*
+- *CSS*
   - TailwindCSS
   - Bulma 
   - Bootstrap
   - Materialize
-- Javascript
- - React
+- *Javascript*
+  - React
   - Gatsby
   - Next JS
-- Node JS
+- *Node JS*
   - Express
-- Databases
+- *Databases*
   - Mongo DB
   - MySQL
   - SQLite
