@@ -1,7 +1,7 @@
 ## I am Fullstack Web Developer
 ### Specifically, focusing on `Progressive Web Apps` **PWA**
 
-#### My Skill set includes:-
+#### My Tech Skill sets includes:-
 
 ##### Web
 - **HTML**
