@@ -1,5 +1,5 @@
 ## I am Fullstack Web Developer
-### Specifically, focusing on `Progressive Web Apps` **PWA**
+### Specifically, focusing on `Progressive Web Apps` **PWA**, React Native
 
 #### My Tech Skill sets includes:-
 
@@ -24,6 +24,7 @@
   - firebase Firestore
 ##### Mobile
  - PWA
+ - React Native
  - Flutter
  
 
