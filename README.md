@@ -1,9 +1,9 @@
-## I am Fullstack Web Developer
-### Specifically, focusing on `Progressive Web Apps` **PWA**, React Native
+# I am Fullstack Web Developer -->  🚀💻👨‍💻
+## Specifically, focusing on `Progressive Web Apps` **PWA**, React Native
 
-#### My Tech Skill sets includes:-
+### My Tech Skill sets includes:-
 
-##### Web
+#### Web
 - **HTML**
 - **CSS**
   - TailwindCSS
