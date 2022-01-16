@@ -19,7 +19,7 @@
   - Bootstrap
   - Materialize
 - **JavaScript**
-  - React
+   - React
    - Gatsby
    - Next JS
   - Svelte
@@ -27,6 +27,7 @@
   - Express
 - **Databases**
   - Mongo DB
+  - Postgress 
   - MySQL
   - SQLite
   - firebase Firestore
