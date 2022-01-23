@@ -12,8 +12,7 @@
 ### My Tech Skill sets includes:-
 
 #### Web
-- **HTML**
-- **CSS**
+- **HTML** / **CSS**
   - TailwindCSS
   - Bulma 
   - Bootstrap
