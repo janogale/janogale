@@ -19,22 +19,31 @@
   - Bootstrap
   - Materialize
 - **JavaScript**
+   - TypeScript
    - React
-   - Gatsby
    - Next JS
-  - Svelte
+   - Svelte
 - **Node JS**
   - Express
+  - REST API
+  - GraphQL
 - **Databases**
   - Mongo DB
   - Postgress 
   - MySQL
   - SQLite
   - firebase Firestore
-##### Mobile
+  
+#### Mobile
  - PWA
  - React Native
  - Flutter
+
+#### Dev Tools
+ - VS Code
+ - Docker 
+ - WSL2
+ - 
  ---
  Coding is my passion
 
