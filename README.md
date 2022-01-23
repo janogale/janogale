@@ -42,7 +42,6 @@
  - VS Code
  - Docker 
  - WSL2
- - 
  ---
  Coding is my passion
 
