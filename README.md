@@ -26,7 +26,5 @@
 
 
 ---
-```
-println('Let's code...')
 
-```
+Happy Coding 👨🏾‍💻
