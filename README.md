@@ -11,12 +11,17 @@
 
 ### 🔧 My Tech Skill set
 
-| Web                                           |                    Mobile                    |                                Backend |                                   Databases |                                 Dev Tools |
-| --------------------------------------------- | :------------------------------------------: | -------------------------------------: | ------------------------------------------: | ----------------------------------------: |
-| HTML                                          |      [React Native](https://reacjs.org)      | [NodeJS](https://nodejs.org/en/about/) |    [PostGress](https://www.postgresql.org/) | [VS Code](https://code.visualstudio.com/) |
-| CSS                                           |       [Flutter](https://flutter.dev/)        |     [ExpressJS](https://expressjs.org) |         [MongoDB](https://www.mongodb.com/) |                                    Docker |
-| JavaScript                                    | [PWA](https://web.dev/progressive-web-apps/) |            [KoaJS](https://koajs.com/) | [SQLite](https://www.sqlite.org/index.html) |                                Git/GitHub |
-| [Typescript](https://www.typescriptlang.org/) |                                              |        [GraphQL](https://graphql.org/) |    [Firebase](https://firebase.google.com/) |                                           |
+| Web                                           | Mobile                                       | Backend                                | Databases                                   |                 Dev Tools                 |
+| --------------------------------------------- | :------------------------------------------- | :------------------------------------- | :------------------------------------------ | :---------------------------------------: |
+| `HTML`                                        | [React Native](https://reacjs.org)           | [NodeJS](https://nodejs.org/en/about/) | [PostGress](https://www.postgresql.org/)    | [VS Code](https://code.visualstudio.com/) |
+| `CSS`                                         | [Flutter](https://flutter.dev/)              | [ExpressJS](https://expressjs.org)     | [MongoDB](https://www.mongodb.com/)         |     [Docker](https://www.docker.com/)     |
+| `JavaScript`                                  | [PWA](https://web.dev/progressive-web-apps/) | [KoaJS](https://koajs.com/)            | [SQLite](https://www.sqlite.org/index.html) |                Git/GitHub                 |
+| [Typescript](https://www.typescriptlang.org/) |                                              | [GraphQL](https://graphql.org/)        | [Firebase](https://firebase.google.com/)    |                                           |
 | [ReactJS](https://reactjs.org)                |                                              |                                        |                                             |                                           |
 | [NextJS](https://nextjs.org)                  |                                              |                                        |                                             |                                           |
 | [MaterialUI](https://mui.com)                 |                                              |                                        |                                             |                                           |
+                                         |                                           |
+                                         
+                                         
+                                         
+                                         
