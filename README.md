@@ -9,9 +9,16 @@
 
 ---
 
-### My Tech Skill sets includes:-
+### 🔧 My Tech Skill sets includes:-
 
-#### Web
+- [React](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [NextJS](https://nextjs.org/)
+- [Sass](https://sass-lang.com/)
+
+
+#### 🌐 **Web**
 - **HTML** / **CSS**
   - TailwindCSS
   - Bulma 
