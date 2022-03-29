@@ -1,5 +1,5 @@
 # I am Fullstack Web Developer -->  🚀👨‍💻
-## Specifically, focusing on `Progressive Web Apps` **PWA**, React Native
+## I can confortable work with the below Technologies. 
 
 ---
 
@@ -9,46 +9,14 @@
 
 ---
 
-### 🔧 My Tech Skill sets includes:-
+### 🔧 My Tech Skill set
 
-- [React](https://reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [NextJS](https://nextjs.org/)
-- [Sass](https://sass-lang.com/)
-
-
-#### 🌐 **Web**
-- **HTML** / **CSS**
-  - TailwindCSS
-  - Bulma 
-  - Bootstrap
-  - Materialize
-- **JavaScript**
-   - TypeScript
-   - React
-   - Next JS
-   - Svelte
-- **Node JS**
-  - Express
-  - REST API
-  - GraphQL
-- **Databases**
-  - Mongo DB
-  - Postgress 
-  - MySQL
-  - SQLite
-  - firebase Firestore
-  
-#### Mobile
- - PWA
- - React Native
- - Flutter
-
-#### Dev Tools
- - VS Code
- - Docker 
- - WSL2
- ---
- Coding is my passion
-
+| Web                                           |                    Mobile                    |                                Backend |                                   Databases |                                 Dev Tools |
+| --------------------------------------------- | :------------------------------------------: | -------------------------------------: | ------------------------------------------: | ----------------------------------------: |
+| HTML                                          |      [React Native](https://reacjs.org)      | [NodeJS](https://nodejs.org/en/about/) |    [PostGress](https://www.postgresql.org/) | [VS Code](https://code.visualstudio.com/) |
+| CSS                                           |       [Flutter](https://flutter.dev/)        |     [ExpressJS](https://expressjs.org) |         [MongoDB](https://www.mongodb.com/) |                                    Docker |
+| JavaScript                                    | [PWA](https://web.dev/progressive-web-apps/) |            [KoaJS](https://koajs.com/) | [SQLite](https://www.sqlite.org/index.html) |                                Git/GitHub |
+| [Typescript](https://www.typescriptlang.org/) |                                              |        [GraphQL](https://graphql.org/) |    [Firebase](https://firebase.google.com/) |                                           |
+| [ReactJS](https://reactjs.org)                |                                              |                                        |                                             |                                           |
+| [NextJS](https://nextjs.org)                  |                                              |                                        |                                             |                                           |
+| [MaterialUI](https://mui.com)                 |                                              |                                        |                                             |                                           |
