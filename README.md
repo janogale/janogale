@@ -1,5 +1,5 @@
 # I am Fullstack Web Developer -->  🚀👨‍💻
-## I can confortable work with the below Technologies. 
+
 
 ---
 ## 🔧 My Tech Skill set
