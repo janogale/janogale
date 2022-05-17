@@ -2,13 +2,6 @@
 ## I can confortable work with the below Technologies. 
 
 ---
-
-## 📊 My GitHub Stats
-
- <img align="center" height="150px" alt="Mukhtar Mahamed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=janogale&show_icons=true&show_icons=true&include_all_commits=true&hide_border=true&theme=default" /> 
-
----
-
 ## 🔧 My Tech Skill set
 
 ### Web
